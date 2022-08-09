@@ -15,11 +15,14 @@ J'ai obtenu un Mastère en marketing & communication digitale en 2019. Durant me
 - Reporting
 - Google analytics
 - Création de newsletters
+- Utilisation de différents logiciels (Figma, Hubspot, Canva ...)
 
 
 Suite à mes expériences en marketing digital, j'ai décider de monter en compétences et de me former au développement web, afin de devenir développeur front-end.
 
+
 📫 Télécharger mon [CV](docs/CV_Antoine_Flegeau.png)
+
 
 
 [![antoineflg35 github activity graph](https://activity-graph.herokuapp.com/graph?username=antoineflg35)](https://github.com/antoineflg35/github-readme-activity-graph)
