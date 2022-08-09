@@ -20,7 +20,8 @@ J'ai obtenu un Mastère en marketing & communication digitale en 2019. Durant me
 
 Suite à mes expériences en marketing digital, j'ai décider de monter en compétences et de me former au développement web, afin de devenir développeur front-end.
 
-📫 Télécharger mon CV  <a href="" target="">ICI</a>
+
+📫 Télécharger mon [CV](docs/CV_Antoine_Flegeau.png)
 
 
 
