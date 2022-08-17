@@ -23,6 +23,8 @@ Suite à mes expériences en marketing digital, j'ai décider de monter en comp�
 
 📫 Télécharger mon [CV](docs/CV_Antoine_Flegeau.png)
 
+Mon profil [Linkedin](https://www.linkedin.com/in/antoine-flegeau/)
+
 
 
 [![antoineflg35 github activity graph](https://activity-graph.herokuapp.com/graph?username=antoineflg35)](https://github.com/antoineflg35/github-readme-activity-graph)
