@@ -3,7 +3,7 @@
 
 - Je suis développeur web
 - Je m'intéresse à l'UX et l'UI, dans l'objectif de créer des interfaces efficaces pour les visiteurs
-- Je cherche un emploi de développeur front-end à Rennes
+- Je cherche un emploi de développeur web à Rennes/Nantes
 
 
 
@@ -18,8 +18,7 @@ J'ai obtenu un Mastère en marketing & communication digitale en 2019. Durant me
 - Utilisation de différents logiciels (Figma, Hubspot, Canva ...)
 
 
-Suite à mes expériences en marketing digital, j'ai décider de monter en compétences et de me former au développement web. Je suis actuelllement à la recherche d'un poste de développeur web sur Rennes/Nantes.
-
+Suite à mes expériences en marketing digital, j'ai décider de monter en compétences et de me former au développement web.
 
 📫 Télécharger mon [CV](docs/CV_Antoine_Flegeau.png)
 
